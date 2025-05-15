@@ -64,6 +64,6 @@ Server running on port 8080
 
 ---
 
-**You can replace** `J M Shashin Punsara`, J M Shashin Punsara, and shashinpunsara@gmail.com with your actual info.
+**You can replace** `Assessment-01`, J M Shashin Punsara, and shashinpunsara@gmail.com with your actual info.
 
 If you want, I can also help generate the full code files (`server.js`, `database.js`) for you to upload to GitHub along with this README. Just ask!
