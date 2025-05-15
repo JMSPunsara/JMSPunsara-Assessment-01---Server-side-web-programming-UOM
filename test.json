@@ -1,0 +1,17 @@
+{
+    "message": "success",
+    "data": {
+  "productName": "White Basmathi Rice",
+  "description": "High-quality imported rice.",
+  "category": "Rice",
+  "brand": "CIC",
+  "expiredDate": "2023.05.04",
+  "manufacturedDate": "2022.02.20",
+  "batchNumber": 324567,
+  "unitPrice": 1020,
+  "quantity": 200,
+  "createdDate": "2022.02.24"
+}
+,
+    "id": 65
+}
